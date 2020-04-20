@@ -1,5 +1,5 @@
 {
-  "name": "gridsome-ghost",
+  "name": "gridsome-starter-ghost",
   "private": true,
   "scripts": {
     "build": "gridsome build",
