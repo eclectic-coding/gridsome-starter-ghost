@@ -845,10 +845,10 @@
     mime-types "^2.1.21"
     slash "^2.0.0"
 
-"@gridsome/source-ghost@^0.3.1":
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/@gridsome/source-ghost/-/source-ghost-0.3.1.tgz#8563050aecf632a5c98024fab02c5239caae40ee"
-  integrity sha512-IgHO5ajdhS13/0ZuUtCLAguXX8Qxw8DlcHICtyJcUUEOPAu56xytIPxaUohQ+gl+uIDDa+FMCg3+FQ7jxXU8LQ==
+"@gridsome/source-ghost@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@gridsome/source-ghost/-/source-ghost-0.4.0.tgz#8f71e137017336d41c292195e2a7e355c5c51c5c"
+  integrity sha512-emwJWqazITmN1n41eCZ50LXztk+LC/Okk2ROVZ1dX6mRSunWULfhBylPOT/USQNt/+oqB51HNbWI5Z52meQ2nw==
   dependencies:
     "@tryghost/content-api" "^1.3.4"
     camelcase "^5.0.0"
