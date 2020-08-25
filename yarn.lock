@@ -853,7 +853,7 @@
     "@tryghost/content-api" "^1.3.4"
     camelcase "^5.0.0"
 
-"@gridsome/transformer-remark@^0.3.0":
+"@gridsome/transformer-remark@^0.3.4":
   version "0.3.4"
   resolved "https://registry.yarnpkg.com/@gridsome/transformer-remark/-/transformer-remark-0.3.4.tgz#7ecf37565ffb95001ed2cf7562ff1c42ac67ecbb"
   integrity sha512-EYDfZs1JmpIfoXYszmxmzHNcg4YxcbBSjFWPm4CHpie6CXreNOmXErO2WZ5QvLscEu/B5bsno/3mAL30roCxyw==
