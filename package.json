@@ -15,7 +15,7 @@
     "gridsome": "^0.7.23"
   },
   "devDependencies": {
-    "node-sass": "^6.0.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^12.3.0"
   }
 }
